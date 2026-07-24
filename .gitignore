@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Personal face images
+known_faces/
+
+# Generated unknown faces
+unknown_faces/
+
+# Attendance records
+attendance.csv
+attendance.xlsx
