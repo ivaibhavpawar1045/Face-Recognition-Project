@@ -119,7 +119,7 @@ streamlit run app.py
 
 GitHub: https://github.com/ivaibhavpawar1045
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: https://www.linkedin.com/in/vaibhav-pawar1045
 
 ---
 
